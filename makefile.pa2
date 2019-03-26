@@ -1,0 +1,3 @@
+all: filedisp.cpp filecnt.cpp version.cpp
+	g++ -std=c++11 filecnt.cpp -lstdc++fs -o filecnt
+	g++ -std=c++11 filedisp.cpp -o filedisp

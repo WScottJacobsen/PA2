@@ -1,0 +1,94 @@
+Script started on Mon 25 Mar 2019 07:58:49 PM CDT
+]2;scott@scott: ~/School/Unix/Program2]1;..Unix/Program2]0;~/School/Unix/Program2
+[0m[27m[24m[J[34m~/School/Unix/Program2[39m
+[35m❯[39m [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mo[0m[39m[1m[31mg[1m[31mo[1m[31mt[0m[39m omo   [1m[31mg[1m[31mo[0m[39m[0m[39m [0m[32mg[39m[0m[39m [1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m init[?1l>[?2004l
+]2;git init]1;git]0;Program2: git initInitialized empty Git repository in /home/scott/School/Unix/Program2/.git/
+]2;scott@scott: ~/School/Unix/Program2]1;..Unix/Program2]0;~/School/Unix/Program2
+[0m[27m[24m[J[34m~/School/Unix/Program2[39m
+[35m❯[39m [K[?1h=[?2004h[A[0m[27m[24m[J[34m~/School/Unix/Program2[39m [38;5;242mmaster[39m
+[35m❯[39m [K[A[0m[27m[24m[J[34m~/School/Unix/Program2[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m remote add origin [7mhttps://github.com/WScottJacobsen/PA2.git[27m[41D[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mW[27mS[27mc[27mo[27mt[27mt[27mJ[27ma[27mc[27mo[27mb[27ms[27me[27mn[27m/[27mP[27mA[27m2[27m.[27mg[27mi[27mt[?1l>[?2004l
+]2;git remote add origin https://github.com/WScottJacobsen/PA2.git]1;git]0;Program2: git remote add origin https://github.com/WScottJacobsen/PA2.git]2;scott@scott: ~/School/Unix/Program2]1;..Unix/Program2]0;~/School/Unix/Program2
+[0m[27m[24m[J[34m~/School/Unix/Program2[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m status[?1l>[?2004l
+]2;git status]1;git]0;Program2: git statusOn branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mPA_GitHub.typescript[m
+	[31mPA_makefiles.typescript[m
+	[31mProgramming_Assignment_2.scriptout[m
+	[31mREAD ME.docx[m
+	[31mfilecnt[m
+	[31mfilecnt.cpp[m
+	[31mfiledisp[m
+	[31mfiledisp.cpp[m
+	[31mmakefile.pa2[m
+	[31mversion.cpp[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]2;scott@scott: ~/School/Unix/Program2]1;..Unix/Program2]0;~/School/Unix/Program2
+[0m[27m[24m[J[34m~/School/Unix/Program2[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4mP[24m[4mP[4mr[24m[4mr[4mo[24m[4mo[4mgram[24m[4mm[4m3[24m[?1l>[?2004l
+]2;cd ../Program3]1;cd]0;Program2: cd ../Program3]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[34m~/School/Unix/Program3[39m
+[35m❯[39m [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m init[?1l>[?2004l
+]2;git init]1;git]0;Program3: git initInitialized empty Git repository in /home/scott/School/Unix/Program3/.git/
+]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[34m~/School/Unix/Program3[39m
+[35m❯[39m [K[?1h=[?2004h[A[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster[39m
+[35m❯[39m [K[A[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m st  remote add origin [7mhttps://github.com/WScottJacobsen/PA2.git[27m[41D[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27mW[27mS[27mc[27mo[27mt[27mt[27mJ[27ma[27mc[27mo[27mb[27ms[27me[27mn[27m/[27mP[27mA[27m2[27m.[27mg[27mi[27mt.git 3.git[?1l>[?2004l
+]2;git remote add origin https://github.com/WScottJacobsen/PA3.git]1;git]0;Program3: git remote add origin https://github.com/WScottJacobsen/PA3.git]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m status[?1l>[?2004l
+]2;git status]1;git]0;Program3: git statusOn branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mPA03_Scott_Jacobsen.zip[m
+	[31mcompile.scriptout[m
+	[31mexample.scriptout[m
+	[31mmakefile.pa3[m
+	[31mmyshell.cpp[m
+	[31mmyshell.distro[m
+	[31mversion.cpp[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m push origin           [4mc[24m[4mc[4mo[24m[4mc[24m[24m [24m add -A[?1l>[?2004l
+]2;git add -A]1;git]0;Program3: git add -A]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mc[24m[4mc[4mo[24m[4mo[4mm[24m[24mc[24mo[24mmmit -m [33m"[39m[33m"[33mI[39m[33mI[33mn[39m[33mn[33mi[39m[33mi[33mt[39m[33mt[33mi[39m[33mi[33ma[39m[33ma[33ml[39m[33ml[33m [39m[33m [33mC[39m[33mC[33mO[39m[33mC[39m[39m [33m [39m[39m [33m [33mc[39m[33mc[33mo[39m[33mo[33mm[39m[33mm[33mm[39m[33mm[33mi[39m[33mi[33mt[39m[33mt[33m"[39m[?1l>[?2004l
+]2;git commit -m "Initial commit"]1;git]0;Program3: git commit -m "Initial commit"[master (root-commit) 7a321a1] Initial commit
+ 7 files changed, 271 insertions(+)
+ create mode 100644 PA03_Scott_Jacobsen.zip
+ create mode 100644 compile.scriptout
+ create mode 100644 example.scriptout
+ create mode 100644 makefile.pa3
+ create mode 100644 myshell.cpp
+ create mode 100755 myshell.distro
+ create mode 100644 version.cpp
+]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster*[39m
+[35m❯[39m [K[?1h=[?2004h[A[0m[27m[24m[J[34m~/School/Unix/Program3[39m [38;5;242mmaster[39m
+[35m❯[39m [K[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m push origin [4mm[24m[4mm[4ma[24m[24mm[24master[?1l>[?2004l
+]2;git push origin master]1;git]0;Program3: git push origin masterUsername for 'https://github.com': dogd md     WScottJacobsen
+Password for 'https://WScottJacobsen@github.com': 
+Counting objects: 9, done.
+Delta compression using up to 8 threads.
+Compressing objects:  11% (1/9)   Compressing objects:  22% (2/9)   Compressing objects:  33% (3/9)   Compressing objects:  44% (4/9)   Compressing objects:  55% (5/9)   Compressing objects:  66% (6/9)   Compressing objects:  77% (7/9)   Compressing objects:  88% (8/9)   Compressing objects: 100% (9/9)   Compressing objects: 100% (9/9), done.
+Writing objects:  11% (1/9)   Writing objects:  22% (2/9)   Writing objects:  33% (3/9)   Writing objects:  55% (5/9)   Writing objects:  66% (6/9)   Writing objects:  77% (7/9)   Writing objects:  88% (8/9)   Writing objects: 100% (9/9)   Writing objects: 100% (9/9), 261.53 KiB | 0 bytes/s, done.
+Total 9 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), done.[K
+To https://github.com/WScottJacobsen/PA3.git
+ * [new branch]      master -> master
+]2;scott@scott: ~/School/Unix/Program3]1;..Unix/Program3]0;~/School/Unix/Program3
+[0m[27m[24m[J[3

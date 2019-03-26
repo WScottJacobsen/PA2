@@ -1,0 +1,31 @@
+Script started on Mon 04 Mar 2019 07:52:19 PM CST
+]0;scott@scott: ~/School/Unix[01;32mscott@scott[00m:[01;34m~/School/Unix[00m$ ls -la cs3376/
+total 476
+drwxrwxr-x 2 scott scott   4096 Mar  4 19:52 [0m[01;34m.[0m
+drwxrwxr-x 3 scott scott   4096 Mar  4 19:52 [01;34m..[0m
+-rw-rw-r-- 1 scott scott   1137 Mar  4 19:01 filecnt.cpp
+-rw-rw-r-- 1 scott scott    849 Mar  4 19:12 filedisp.cpp
+-rw-rw-r-- 1 scott scott 463264 Mar  4 19:48 READ ME.docx
+]0;scott@scott: ~/School/Unix[01;32mscott@scott[00m:[01;34m~/School/Unix[00m$ cd u[Kcs3376/
+]0;scott@scott: ~/School/Unix/cs3376[01;32mscott@scott[00m:[01;34m~/School/Unix/cs3376[00m$ g++ -std=c++11 filecnt.cpp -lstdc++fs -o filecnt && g++ -std=c++11 filedisp.cpp -o filedisp
+]0;scott@scott: ~/School/Unix[01;32mscott@scott[00m:[01;34m~/School/Unix[00m$ ls -la
+total 692
+drwxrwxr-x 2 scott scott   4096 Mar  4 19:52 [0m[01;34m.[0m
+drwxrwxr-x 3 scott scott   4096 Mar  4 19:52 [01;34m..[0m
+-rwxrwxr-x 1 scott scott 201168 Mar  4 19:52 [01;32mfilecnt[0m
+-rw-rw-r-- 1 scott scott   1137 Mar  4 19:01 filecnt.cpp
+-rwxrwxr-x 1 scott scott  14864 Mar  4 19:52 [01;32mfiledisp[0m
+-rw-rw-r-- 1 scott scott    849 Mar  4 19:12 filedisp.cpp
+-rw-rw-r-- 1 scott scott 463264 Mar  4 19:48 READ ME.docx
+]0;scott@scott: ~/School/Unix/cs3376[01;32mscott@scott[00m:[01;34m~/School/Unix/cs3376[00m$ ./filecnt /usr/share | filedisp -d[1@.[1@/
+The total number of directories in directory /usr/share is: 9463.
+]0;scott@scott: ~/School/Unix/cs3376[01;32mscott@scott[00m:[01;34m~/School/Unix/cs3376[00m$ ./filecnt /usr/share | ./filedisp -d[Kf
+The total number of files in directory /usr/share is: 193802.
+The total number of bytes occupied by all files in directory /usr/share is: 2320110654.
+]0;scott@scott: ~/School/Unix/cs3376[01;32mscott@scott[00m:[01;34m~/School/Unix/cs3376[00m$ ./filecnt /usr/share | ./filedisp -f[Kb
+The total number of bytes occupied by all files in directory /usr/share is: 2320110654.
+]0;scott@scott: ~/School/Unix/cs3376[01;32mscott@scott[00m:[01;34m~/School/Unix/cs3376[00m$ cd ..
+]0;scott@scott: ~/School/Unix[01;32mscott@scott[00m:[01;34m~/School/Unix[00m$ exit
+exit
+
+Script done on Mon 04 Mar 2019 07:54:17 PM CST
